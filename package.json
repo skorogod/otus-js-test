@@ -1,0 +1,24 @@
+{
+  "name": "otus-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skorogod/otus-js-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skorogod/otus-js-test/issues"
+  },
+  "homepage": "https://github.com/skorogod/otus-js-test#readme",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
